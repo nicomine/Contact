@@ -1,0 +1,22 @@
+.card {
+  height: 400px !important;
+  box-sizing: border-box;
+}
+.card:hover {
+    
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+}
+
+.card-title {
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+
+.card-img-top {
+  height: 250px;
+  image-resolution: from-image 300dpi;
+}
